@@ -1,0 +1,27 @@
+p{
+    font-family: 'raleway';
+}
+
+h1{
+    font-family: "Comic Sans MS";
+    font-size: 22px;
+    color: red;
+}
+.menuPrincipal
+{
+background-color: #00f00c;
+text-decoration: none;
+}
+img{
+    float: left;
+    height: 100px;
+    width: 80px;
+}
+h2{
+    font-family: "Comic Sans MS";
+    font-size: 22px;
+    color: #009846;
+}
+.textalign{
+    text-align: center;
+}
